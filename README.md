@@ -1,1 +1,1 @@
-# kriyaos
+# Kriya OS
